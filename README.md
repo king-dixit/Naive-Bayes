@@ -1,4 +1,4 @@
-# Naive-Bayes
+# Naive-Bayes From Scratch
 Naive Bayes From Scratch! No Scikit Learn Libraries - Gaussian Naive Bayes, Discrete Naive Bayes, Laplace Smoothing
 
 A Naive Bayes classifier is a probabilistic machine learning model that’s used for classification task. 
