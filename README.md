@@ -9,3 +9,6 @@ Assumptions:
 1) Predictors are independant of each other.
 2) Naive Bayes is a generative model.
 3) Gaussian Naive Bayes assumes that each class follow a Gaussian distribution.
+
+
+Implemented Gaussian Naive Bayes, Discrete Naive Bayes with Laplace Smoothing option
